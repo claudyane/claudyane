@@ -15,11 +15,10 @@ Hi, I'm Claudyane Arj👋
 ## Social Networks 
  
   <div> 
-  <a href="https://www.youtube.com/channel/UCF46nrEO_33ka20psM7R58g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/luis.costalaurindo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/cldyn.arj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:claudy.sa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
-<a href= "https://www.linkedin.com/in/luis-laurindo/">
+<a href= "https://www.linkedin.com/in/claudyane-arj-18348120/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>  
