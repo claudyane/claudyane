@@ -29,6 +29,7 @@ Hi, I'm Claudyane Arj👋
   <img height="50em" align="center" src="https://github.com/claudyane/claudyane/blob/main/icons/sql.png" />
   <img height="50em" align="center" src="https://github.com/claudyane/claudyane/blob/main/icons/mysql.png" />
    <img height="50em" align="center" src="https://github.com/claudyane/claudyane/blob/main/icons/matlab.jpg" />
+  <img height="50em" align="center" src="https://github.com/claudyane/claudyane/blob/main/icons/R.png" />
   
 </div>
 
