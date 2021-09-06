@@ -1,11 +1,8 @@
 
+
 Hi, I'm Claudyane Arj👋
-<div>
-  <a href="https://github.com/claudyane/claudyane/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudyane/claudyane&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudyane/claudyane&layout=compact&langs_count=7&theme=gotham"/>
- 
-</div>
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=claudyane/claudyane.visitor-badge)](https://github.com/claudyane/claudyane)
+
 
   <div> 
   <a href="https://www.youtube.com/channel/UCF46nrEO_33ka20psM7R58g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
