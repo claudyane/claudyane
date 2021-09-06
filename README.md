@@ -5,7 +5,7 @@ Hi, I'm Claudyane Arj👋
 
 
 <div>
-  <a href="https://github.com/laurindo-luis">
+  <a href="https://github.com/claudyane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudyane&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudyane&layout=compact&langs_count=7&theme=gotham"/>
  
